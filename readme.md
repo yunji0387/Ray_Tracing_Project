@@ -2,6 +2,8 @@
 ## Course : COMP4490
 ## Date : 4/24/2023
 ---
+### [Project Report](./COMP4490_Project_Report.pdf)
+
 ### My Platform
 - I am using Windows 11 system laptop with Visual Studio 2022 to write this project.
 - My computer system has a NVidia GTX1050Ti GPU.
