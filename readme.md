@@ -1,7 +1,10 @@
 # (Academic Project) Basic Ray Tracing Techniques
 ## Course : COMP4490
 ## Date : 4/24/2023
+<img src="./Screenshots/Scenes_without_modifications/sceneB.png" alt="sceneB" style="width:200px; height:200px"/> <img src="./Screenshots/AntiAliasing/AntiAliasingSceneI.png" alt="antiAliasingSceneI" style="width:200px; height:200px"/> <img src="./Screenshots/AntiAliasing/AntiAliasing_SceneC.png" alt="antiAliasingSceneC" style="width:400px; height:200px"/>
+
 ---
+
 ### [Project Report](./COMP4490_Project_Report.pdf)
 
 ### My Platform
